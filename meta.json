@@ -1,0 +1,23 @@
+{
+  "repo": "atf-tool-suite",
+  "product": "ATF Tool Suite",
+  "kind": "cad",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part2",
+  "format": "license-md-zentool-v1",
+  "category": "engineering-cad",
+  "topics": [
+    "atf-tool",
+    "atf-windows",
+    "engineering-cad-desktop",
+    "how-to-install-atf",
+    "atf-tool-desktop-package",
+    "atf-workspace",
+    "atf-tool-pro-tools",
+    "atf-suite",
+    "zentool-atf",
+    "atf-tool-tool-9"
+  ],
+  "site": "zentool.art"
+}
